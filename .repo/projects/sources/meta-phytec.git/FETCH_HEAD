@@ -1,0 +1,50 @@
+1b58eb0054c41c37a9c23437ee98b8fe6303b018		branch '1.8.1-phy2-fix' of git://git.phytec.de/meta-phytec
+9bdea1aa956c05868eecc12f36d6905aa15e225e		branch '1.8.1-phy6-fix' of git://git.phytec.de/meta-phytec
+09a89fc21f73d68b2cbf78eb36670265a732181f		branch 'dizzy' of git://git.phytec.de/meta-phytec
+b45ac6030a3495f211a4ee5180fce996f52931c8		branch 'fido' of git://git.phytec.de/meta-phytec
+4aca28a5b314e45ca6b4d844757bd8318203cefd		branch 'jethro' of git://git.phytec.de/meta-phytec
+05ee7a4cc112fe0c8502a99e49ffb56e36e351a1		branch 'krogoth' of git://git.phytec.de/meta-phytec
+f9d9fcfb35ddebc96d4de6224a42bc2396c8ea3f		branch 'master' of git://git.phytec.de/meta-phytec
+d34309ebaee98c05b016968d5e9e7cc27dc44318		branch 'morty' of git://git.phytec.de/meta-phytec
+8b5f43b4b98b946d67f48b92189b4f51fc2a007a		branch 'pyro' of git://git.phytec.de/meta-phytec
+60e1914d90ddf8c222a796e2ea531883df7b9d43		tag '2.1.2-phy4' of git://git.phytec.de/meta-phytec
+2539b5625a52d7e12f259ee0d6adf207b5d726bd	not-for-merge	tag '1.7.0-phy1' of git://git.phytec.de/meta-phytec
+ff481d51fa85034981f31d4034106d0c1a1c2ac4	not-for-merge	tag '1.7.0-phy2' of git://git.phytec.de/meta-phytec
+51bc423505012e1716e03b27083c9b4568e00fc2	not-for-merge	tag '1.7.0-phy3' of git://git.phytec.de/meta-phytec
+527ef1dab20902fc593dcbe436056b9c6e7f226a	not-for-merge	tag '1.7.2-phy1' of git://git.phytec.de/meta-phytec
+1b76f244db0403580befa8b3829ae9d98000b47d	not-for-merge	tag '1.7.2-phy2' of git://git.phytec.de/meta-phytec
+d700285f3567e27b2270359cd835a0bcd3d5fd75	not-for-merge	tag '1.7.3-phy1' of git://git.phytec.de/meta-phytec
+9b63da7fb666bb593095ab79586224c32b248079	not-for-merge	tag '1.8.1-phy1' of git://git.phytec.de/meta-phytec
+9339c6a2841fbc0212b8efbb55b0d5e19166b779	not-for-merge	tag '1.8.1-phy2' of git://git.phytec.de/meta-phytec
+786d7eabcc433db45451b933530ad9eccaf3d1fa	not-for-merge	tag '1.8.1-phy2-fix1' of git://git.phytec.de/meta-phytec
+33ace6006f5c45dbe3cb5ff0932822dd24800a2d	not-for-merge	tag '1.8.1-phy3' of git://git.phytec.de/meta-phytec
+d9bca591c12d59eed0f8dbc724909a13325607a3	not-for-merge	tag '1.8.1-phy4' of git://git.phytec.de/meta-phytec
+dba6c9817961cb649ccba359b734f8212d55ea69	not-for-merge	tag '1.8.1-phy5' of git://git.phytec.de/meta-phytec
+7f17955977899578429f82d6908853dcbd7bcc16	not-for-merge	tag '1.8.1-phy6' of git://git.phytec.de/meta-phytec
+5141c89ecbca87b234c82aa747e77224dc9c3713	not-for-merge	tag '1.8.1-phy6-fix1' of git://git.phytec.de/meta-phytec
+50c5ba83a2743816a3ab9f120fc2182ba0cc1b11	not-for-merge	tag '1.8.1-phy7' of git://git.phytec.de/meta-phytec
+a3123a38a2ac653f814b0d0944fdb270512dd78e	not-for-merge	tag '1.8.1-phy8' of git://git.phytec.de/meta-phytec
+2651f0bcafcfa0ac2658815ad472212e69576485	not-for-merge	tag '2.0.1-phy1' of git://git.phytec.de/meta-phytec
+16318a4ce8d608bac6af7e4190c148bfe8f2c2b3	not-for-merge	tag '2.0.1-phy2' of git://git.phytec.de/meta-phytec
+afee6ef52eb5004b118ad196e7069d64e1554e82	not-for-merge	tag '2.0.1-phy3' of git://git.phytec.de/meta-phytec
+80e778a683856973bec6255a1efb0a036d21d947	not-for-merge	tag '2.1.1-phy1' of git://git.phytec.de/meta-phytec
+e58703f12352fead644dff32fbf4e32b36608fa9	not-for-merge	tag '2.1.1-phy2' of git://git.phytec.de/meta-phytec
+3433f3a021d5e6de39a8e2101ac2eadee9ea2904	not-for-merge	tag '2.1.2-phy1' of git://git.phytec.de/meta-phytec
+38dba8c1d40077fc2b0af68e2e44f1e87add6c4b	not-for-merge	tag '2.1.2-phy2' of git://git.phytec.de/meta-phytec
+22744133d93c8f1bc445f88689bcee6bb979b01a	not-for-merge	tag '2.1.2-phy3' of git://git.phytec.de/meta-phytec
+9d8fb73a01a702d24f749e14fcfb170f61472e75	not-for-merge	tag '2.1.2-phy5' of git://git.phytec.de/meta-phytec
+e689c7d5fa197127ad6fb8590f4c9e0d064c0122	not-for-merge	tag '2.2.1-phy1' of git://git.phytec.de/meta-phytec
+652250d06ae4c22b8d8926ed4ef6fd2a80e2ef75	not-for-merge	tag '2.2.1-phy2' of git://git.phytec.de/meta-phytec
+f563f2c3e31ca6ce8d28652d8d495679bc435806	not-for-merge	tag '2.2.1-phy3' of git://git.phytec.de/meta-phytec
+017daa053387ccf8101e2590eaa58faf0c752af3	not-for-merge	tag '2.2.1-phy4' of git://git.phytec.de/meta-phytec
+cf4c7d61f26e61e991f342aacba7ef9cf3803801	not-for-merge	tag '2.2.1-phy5' of git://git.phytec.de/meta-phytec
+b0842a4df61fcd75efc8cb3a4db964ad3ba18340	not-for-merge	tag '2.2.1-phy6' of git://git.phytec.de/meta-phytec
+b111a4681ed083632d481f257a642670503d25be	not-for-merge	tag '2.2.1-phy7' of git://git.phytec.de/meta-phytec
+5186fc2fd8165b7eb591059a19101bc268eec3ed	not-for-merge	tag '2.2.1-phy8' of git://git.phytec.de/meta-phytec
+83d85df313d9aa406bcda445ac919e685517a808	not-for-merge	tag '2.2.1-phy9' of git://git.phytec.de/meta-phytec
+c9a74a55ddbd932f6233bae28084e3a061e8f88a	not-for-merge	tag '2.2.2-phy1' of git://git.phytec.de/meta-phytec
+4329f8b5f6593624e8d940e5fd9e7bf2e499a396	not-for-merge	tag '2.2.2-phy2' of git://git.phytec.de/meta-phytec
+284171d5dd39fbd53c35b3cdb786e5a58accc20b	not-for-merge	tag '2.2.2-phy3' of git://git.phytec.de/meta-phytec
+95d21a66ff11a3f01e1620149e28e81dab6f62e1	not-for-merge	tag '2.2.2-phy4' of git://git.phytec.de/meta-phytec
+a1d4bf7d64a0259b0dd31d49db500830ac8a7fd6	not-for-merge	tag '2.2.2-phy5' of git://git.phytec.de/meta-phytec
+5776e084249d1d213b6823e80e3cf65a06aa5e61	not-for-merge	tag '2.3.2-phy1' of git://git.phytec.de/meta-phytec

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 0f4d99d207b224bb9ce23de00a48f795ae20b3a0 qpq-14-64 <qiuworker@163.com> 1513046069 +0800	fetch --progress yocto --tags +refs/heads/*:refs/remotes/yocto/* +refs/tags/yocto-2.1.2:refs/tags/yocto-2.1.2: storing head

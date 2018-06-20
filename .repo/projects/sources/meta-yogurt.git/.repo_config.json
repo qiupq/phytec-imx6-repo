@@ -1,0 +1,20 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "remote.git.phytec.fetch": [
+    "+refs/heads/*:refs/remotes/git.phytec/*"
+  ], 
+  "remote.git.phytec.url": [
+    "git://git.phytec.de/meta-yogurt"
+  ], 
+  "remote.git.phytec.projectname": [
+    "meta-yogurt"
+  ]
+}

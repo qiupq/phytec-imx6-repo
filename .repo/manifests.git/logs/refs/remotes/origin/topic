@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 43d18d9b549171c3d4bc2d2e65c4499184e9aba3 qpq-14-64 <qiuworker@163.com> 1513045964 +0800	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head

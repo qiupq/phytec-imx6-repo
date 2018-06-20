@@ -1,0 +1,36 @@
+# pack-refs with: peeled fully-peeled 
+23405d3a66c308e0b2ea64308b834285850c5c9f refs/remotes/github/daisy
+adeca0db212d61a933d7952ad44ea1064cfca747 refs/remotes/github/dizzy
+5b5616b63bdf163ea3eb2ca8857c56a393435fe3 refs/remotes/github/dora
+9a48a2940192073771d99daced62ddd8187b1ee6 refs/remotes/github/dora-next
+84f6aee08c8be59afa062a07fdf450acd70984c5 refs/remotes/github/dylan
+90919b9d86988e7da01fa2c0a07246b5b5600a5d refs/remotes/github/fido
+2aa63cc542656f3db138ca161e375c33afd275db refs/remotes/github/fido-next
+f6f2d16260ae5b35828264a553c05f065aa9d7e2 refs/remotes/github/jansa/daisy
+adeca0db212d61a933d7952ad44ea1064cfca747 refs/remotes/github/jansa/dizzy
+a610beeee7dd973e544dc67e3598977f5f050b76 refs/remotes/github/jansa/fido
+89038bffd224a0d43aa8627472374503b3023f61 refs/remotes/github/jansa/jethro
+f8584d7a7c90afc71484a40279aa3df651d0e04f refs/remotes/github/jansa/krogoth
+06d1c47396508ea50112a00e1c70c40da559aa1a refs/remotes/github/jansa/master
+2c9f0e4eb0e9097f6f872ec1e1d81768a8ab5f1b refs/remotes/github/jansa/morty
+c6aa602d0640040b470ee81de39726276ddc0ea3 refs/remotes/github/jansa/pyro
+d87335a50a9dd35d890786edbd79b8953fdaa11a refs/remotes/github/jansa/rocko
+ea37a0bc987aa9484937ad68f762b4657c198617 refs/remotes/github/jethro
+a8d4dafdfde812e403315d53b2a981d12bd49f04 refs/remotes/github/jethro-next
+f8584d7a7c90afc71484a40279aa3df651d0e04f refs/remotes/github/krogoth
+f8584d7a7c90afc71484a40279aa3df651d0e04f refs/remotes/github/krogoth-next
+06d1c47396508ea50112a00e1c70c40da559aa1a refs/remotes/github/master
+06d1c47396508ea50112a00e1c70c40da559aa1a refs/remotes/github/master-next
+2c9f0e4eb0e9097f6f872ec1e1d81768a8ab5f1b refs/remotes/github/morty
+2c9f0e4eb0e9097f6f872ec1e1d81768a8ab5f1b refs/remotes/github/morty-next
+d02ea33262489f6892db857f9674d14a08f7ca54 refs/remotes/github/otavio/master
+c6aa602d0640040b470ee81de39726276ddc0ea3 refs/remotes/github/pyro
+c6aa602d0640040b470ee81de39726276ddc0ea3 refs/remotes/github/pyro-next
+d87335a50a9dd35d890786edbd79b8953fdaa11a refs/remotes/github/rocko
+d87335a50a9dd35d890786edbd79b8953fdaa11a refs/remotes/github/rocko-next
+5c3f22de900f16d35391320968605b10c68b164a refs/tags/5.2.1+origin/release
+^818cc2d11b02ceb02ac27401fedcaf1e1db91d36
+8342a23cc93322c111378f8c14fd2008498171d0 refs/tags/jansa/test-2013-10-08
+^ee4ef2a303ffb1f7da8e84f15b27ff72d609df59
+1bc1de6bbf887b716e5ccc2029f67024710772cb refs/tags/master-next-2014-02-19
+^22b040f0eacb1a9a42f313a5abb77e23507564f0

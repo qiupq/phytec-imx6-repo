@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+[remote "git.phytec"]
+	url = git://git.phytec.de/meta-phytec
+	projectname = meta-phytec
+	fetch = +refs/heads/*:refs/remotes/git.phytec/*

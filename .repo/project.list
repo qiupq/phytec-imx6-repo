@@ -1,0 +1,5 @@
+sources/meta-openembedded
+sources/meta-phytec
+sources/meta-qt5
+sources/meta-yogurt
+sources/poky

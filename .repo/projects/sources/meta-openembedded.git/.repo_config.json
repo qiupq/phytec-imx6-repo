@@ -1,0 +1,20 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.oe.url": [
+    "git://git.openembedded.org/meta-openembedded"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "remote.oe.projectname": [
+    "meta-openembedded"
+  ], 
+  "remote.oe.fetch": [
+    "+refs/heads/*:refs/remotes/oe/*"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "remote.origin.url": [
+    "git://git.phytec.de/phy2octo"
+  ], 
+  "branch.default.merge": [
+    "refs/heads/imx6"
+  ], 
+  "branch.default.remote": [
+    "origin"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

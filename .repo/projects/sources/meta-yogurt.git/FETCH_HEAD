@@ -1,0 +1,57 @@
+4c9e3bf05ca4302c86b8ff42509234fdeb347431		branch '1.7.2-phy1-fix' of git://git.phytec.de/meta-yogurt
+ea5c6730c7055e30bc7a7c6b4fc7098aca0d1693		branch '1.7.2-phy3-fix' of git://git.phytec.de/meta-yogurt
+6db6cd4dd0f5ab6b386845835ca5494df0fb541a		branch '1.8.1-phy2-fix' of git://git.phytec.de/meta-yogurt
+85444c82a381429f7259194f2b1a7b12ab6c78ac		branch '1.8.1-phy3-fix' of git://git.phytec.de/meta-yogurt
+ca5cbcbea8b5d2083c48f71bd8dbadb487870b89		branch '1.8.1-phy6-fix' of git://git.phytec.de/meta-yogurt
+d318604c0e53598473ffee1d53a47557aa60b9bc		branch 'dizzy' of git://git.phytec.de/meta-yogurt
+8f8487fd45b70e7bb68c3ee84463dfb76c72fc2b		branch 'fido' of git://git.phytec.de/meta-yogurt
+8a516dbe1d7197c8696c49b108ca7d42b1e3eb57		branch 'jethro' of git://git.phytec.de/meta-yogurt
+32ede39ba938b4a5331fa02052ea53f2b52b1d0e		branch 'krogoth' of git://git.phytec.de/meta-yogurt
+e1068ad4a9192938bd66ce6dbde5891b98cc4d62		branch 'master' of git://git.phytec.de/meta-yogurt
+237879da9c72782a43b5e773361a43153e30c773		branch 'morty' of git://git.phytec.de/meta-yogurt
+e6cd29203710fb7847247dec29498b77d3fdcc6f		branch 'pyro' of git://git.phytec.de/meta-yogurt
+295480b0c5d4b5db963333c2bfacd4da3f2f0c87		tag '2.1.2-phy4' of git://git.phytec.de/meta-yogurt
+728d526ec1f983f574c721edac36abb7652e64b4	not-for-merge	tag '1.7.0-phy1' of git://git.phytec.de/meta-yogurt
+0984128fef128fafb0fce7d3d58ae84add4841e3	not-for-merge	tag '1.7.0-phy2' of git://git.phytec.de/meta-yogurt
+3c55d4a5415d9e0e5ed21c52125d88eb9a4c4fae	not-for-merge	tag '1.7.2-phy1' of git://git.phytec.de/meta-yogurt
+742700ecfcc23ec88c8e2301c8b3050a3a875ab1	not-for-merge	tag '1.7.2-phy1-fix1' of git://git.phytec.de/meta-yogurt
+03969cdbe37eaba5c7a1195f876814e76f9b1a3e	not-for-merge	tag '1.7.2-phy2' of git://git.phytec.de/meta-yogurt
+4fed90c11a2f225eaf4c3b34214514a0b0c93555	not-for-merge	tag '1.7.2-phy3' of git://git.phytec.de/meta-yogurt
+4f42d8ba98eba4cd5508a1b39f85828d7dabb083	not-for-merge	tag '1.7.2-phy3-fix1' of git://git.phytec.de/meta-yogurt
+ebf52ce9718b1d72b2d2bec4196c639a9c7fc631	not-for-merge	tag '1.7.2-phy4' of git://git.phytec.de/meta-yogurt
+eb50e695bebfeb3f3de3cff1c31506655cd21a62	not-for-merge	tag '1.7.3-phy1' of git://git.phytec.de/meta-yogurt
+f0ab1f78528b22887b1d68b867bc454f220c9313	not-for-merge	tag '1.8.1-phy1' of git://git.phytec.de/meta-yogurt
+6e6d0c0778c1b1e7aa93167c1fbb1e60caee2c2d	not-for-merge	tag '1.8.1-phy2' of git://git.phytec.de/meta-yogurt
+4d06d6405f687bdbf5df347c63e31b9d7f0050fe	not-for-merge	tag '1.8.1-phy2-fix1' of git://git.phytec.de/meta-yogurt
+4017d1075da2dd5e17d2521242c994df4dab4d3a	not-for-merge	tag '1.8.1-phy2-fix2' of git://git.phytec.de/meta-yogurt
+bad41ed0f30744eb47975337394918ab83602ce7	not-for-merge	tag '1.8.1-phy3' of git://git.phytec.de/meta-yogurt
+a6844c65a503968acad9c5be596b83cf379e6030	not-for-merge	tag '1.8.1-phy3-fix1' of git://git.phytec.de/meta-yogurt
+0c1832683309bbe9262042c84f27dbc6290a98cd	not-for-merge	tag '1.8.1-phy3-fix2' of git://git.phytec.de/meta-yogurt
+2a08adabdef0a35aaf9ef36321ffc289eb9a3f7d	not-for-merge	tag '1.8.1-phy4' of git://git.phytec.de/meta-yogurt
+985e9a2f4b3e5570285479f46e2437d1283da256	not-for-merge	tag '1.8.1-phy5' of git://git.phytec.de/meta-yogurt
+7b8acb7ae3b53b3e0759c40393d3521412cf55b1	not-for-merge	tag '1.8.1-phy6' of git://git.phytec.de/meta-yogurt
+664a047e325e0d55f3df4e96bf05545b9797b24d	not-for-merge	tag '1.8.1-phy6-fix1' of git://git.phytec.de/meta-yogurt
+7236263c9fa5d443018d1a8627e6443ff4a49db3	not-for-merge	tag '2.0.1-phy1' of git://git.phytec.de/meta-yogurt
+89ff7def04ab722f51ba783cd155d5de1a1de84b	not-for-merge	tag '2.0.1-phy2' of git://git.phytec.de/meta-yogurt
+94295e9fbbb8f05b8fe676503469a2e53f7931b5	not-for-merge	tag '2.0.1-phy3' of git://git.phytec.de/meta-yogurt
+2a95ac783f8c19b2d1761f456dbbfec600c10007	not-for-merge	tag '2.1.1-phy1' of git://git.phytec.de/meta-yogurt
+caf025b41dec475919d7ed52f71109ee23fefc47	not-for-merge	tag '2.1.1-phy2' of git://git.phytec.de/meta-yogurt
+64ea6f11acec2242a35664a3ff04776020368ddc	not-for-merge	tag '2.1.2-phy1' of git://git.phytec.de/meta-yogurt
+0af5e5237d7df625a4ba1a39a05066ad690e66f3	not-for-merge	tag '2.1.2-phy2' of git://git.phytec.de/meta-yogurt
+d108fb04dbb684a5743614775738e599c9bc4899	not-for-merge	tag '2.1.2-phy3' of git://git.phytec.de/meta-yogurt
+956bd09da47e81fa0e6ccad242d41426d3e5028f	not-for-merge	tag '2.1.2-phy5' of git://git.phytec.de/meta-yogurt
+d6fdbd2f31bca947db895251c5075dfc90528774	not-for-merge	tag '2.2.1-phy1' of git://git.phytec.de/meta-yogurt
+38745a7f0c1964dccdb40e86391b306148538815	not-for-merge	tag '2.2.1-phy2' of git://git.phytec.de/meta-yogurt
+8f5a70b576f2bf1204ab1d0f3ae330004eb0d86c	not-for-merge	tag '2.2.1-phy3' of git://git.phytec.de/meta-yogurt
+dd49f7c0462a65b0c8b176a97033f0dbc77160c9	not-for-merge	tag '2.2.1-phy4' of git://git.phytec.de/meta-yogurt
+1a6b280f94a91f41e9427fe0c500e0cee789e0f4	not-for-merge	tag '2.2.1-phy5' of git://git.phytec.de/meta-yogurt
+a91251addeaa294a6748d900d16fd5a4be1ea65a	not-for-merge	tag '2.2.1-phy6' of git://git.phytec.de/meta-yogurt
+7d3491936f12bc5903ccfacd27e4f54a1115776e	not-for-merge	tag '2.2.1-phy7' of git://git.phytec.de/meta-yogurt
+ac5141f7b3935dd818caa19ef114cedb45d8fdb4	not-for-merge	tag '2.2.1-phy8' of git://git.phytec.de/meta-yogurt
+e63cc184cd61c09f5585453e30b01c6cd668a38b	not-for-merge	tag '2.2.1-phy9' of git://git.phytec.de/meta-yogurt
+9dc6aedecef65907333a27631b283b606345fab7	not-for-merge	tag '2.2.2-phy1' of git://git.phytec.de/meta-yogurt
+c120bed02b71859b479ea0401d8010278bf762fc	not-for-merge	tag '2.2.2-phy2' of git://git.phytec.de/meta-yogurt
+4c5f48269cda89c41a3c59bfb90122b307a1095c	not-for-merge	tag '2.2.2-phy3' of git://git.phytec.de/meta-yogurt
+a3bbbb3973c45d4e61b90ae63efa4cffaacbf58a	not-for-merge	tag '2.2.2-phy4' of git://git.phytec.de/meta-yogurt
+7e926793b4873d3b488bb82795728475aa473d61	not-for-merge	tag '2.2.2-phy5' of git://git.phytec.de/meta-yogurt
+eeb7a98ec3d508f0717063182a376399ab9f121b	not-for-merge	tag '2.3.2-phy1' of git://git.phytec.de/meta-yogurt
