@@ -238,6 +238,7 @@ PACKAGES =. " \
     ${PN}-fonts-pfa \
     ${PN}-fonts-pfb \
     ${PN}-fonts-qpf \
+	${PN}-fonts-ttc \
 "
 
 RRECOMMENDS_${PN}-fonts = " \
@@ -246,6 +247,7 @@ RRECOMMENDS_${PN}-fonts = " \
     ${PN}-fonts-pfa \
     ${PN}-fonts-pfb \
     ${PN}-fonts-qpf \
+	${PN}-fonts-ttc \
 "
 
 ALLOW_EMPTY_${PN}-fonts = "1"
@@ -255,6 +257,7 @@ FILES_${PN}-fonts-ttf-dejavu     = "${OE_QMAKE_PATH_QT_FONTS}/DejaVu*.ttf"
 FILES_${PN}-fonts-pfa            = "${OE_QMAKE_PATH_QT_FONTS}/*.pfa"
 FILES_${PN}-fonts-pfb            = "${OE_QMAKE_PATH_QT_FONTS}/*.pfb"
 FILES_${PN}-fonts-qpf            = "${OE_QMAKE_PATH_QT_FONTS}/*.qpf*"
+FILES_${PN}-fonts-ttc            = "${OE_QMAKE_PATH_QT_FONTS}/*.ttc"
 FILES_${PN}-fonts                = "${OE_QMAKE_PATH_QT_FONTS}/README \
                                     ${OE_QMAKE_PATH_QT_FONTS}/fontdir"
 
