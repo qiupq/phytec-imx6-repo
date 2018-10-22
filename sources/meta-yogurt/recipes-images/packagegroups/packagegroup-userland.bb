@@ -19,4 +19,6 @@ RDEPENDS_${PN} = " \
     crda \
     kbd \
     kbd-keymaps \
+    vsftpd	\
+    nfs-utils	\
 "
