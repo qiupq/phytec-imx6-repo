@@ -211,11 +211,11 @@ do_install_append() {
     ### Fix up the binaries to the right location
     ### TODO: FIX
     # install fonts manually if they are missing
-    if [ ! -d ${D}/${OE_QMAKE_PATH_QT_FONTS} ]; then
+    #if [ ! -d ${D}/${OE_QMAKE_PATH_QT_FONTS} ]; then
         mkdir -p ${D}/${OE_QMAKE_PATH_QT_FONTS}
         cp -d ${S}/lib/fonts/* ${D}/${OE_QMAKE_PATH_QT_FONTS}
         chown -R root:root ${D}/${OE_QMAKE_PATH_QT_FONTS}
-    fi
+    #fi
     # Remove example.pro file as it is useless
     rm -f ${D}${OE_QMAKE_PATH_EXAMPLES}/examples.pro
 
