@@ -11,7 +11,7 @@ INTREE_DEFCONFIG_pn-barebox = "imx_v7_defconfig"
 # Kernel 
 PREFERRED_PROVIDER_virtual/kernel ?= "linux-mainline"
 KERNEL_IMAGETYPE ?= "zImage"
-INTREE_DEFCONFIG_pn-linux-mainline = "imx_v6_v7_defconfig"
+INTREE_DEFCONFIG_pn-linux-mainline = "imx6dl_s8005_defconfig"
 # Install modules in initramfs and roofs
 PACKAGE_INSTALL_append = " kernel-modules"
 
