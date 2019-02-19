@@ -29,6 +29,7 @@ S = "${WORKDIR}/git"
 inherit qmake5 systemd
 
 SYSTEMD_SERVICE_${PN} = "phytec-qtdemo.service"
+SYSTEMD_AUTO_ENABLE = "disable"
 
 PACKAGES += "${PN}-democontent ${PN}-videos"
 
