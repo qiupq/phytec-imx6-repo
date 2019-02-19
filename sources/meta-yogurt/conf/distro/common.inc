@@ -21,8 +21,8 @@ INHERIT += "insane"
 QA_LOG = "1"
 
 # Log information on images and packages
-INHERIT += "buildhistory"
-BUILDHISTORY_COMMIT = "1"
+#INHERIT += "buildhistory"
+#BUILDHISTORY_COMMIT = "1"
 INHERIT += "buildstats"
 
 # Prelink images
