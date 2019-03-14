@@ -12,7 +12,7 @@ LICENSE = "MIT"
 inherit core-image distro_features_check populate_sdk_qt5
 
 # this is a pure qt5 embedded demo image without X
-CONFLICT_DISTRO_FEATURES = "wayland"
+CONFLICT_DISTRO_FEATURES = "x11 wayland"
 REQUIRED_DISTRO_FEATURES = "opengl"
 
 IMAGE_INSTALL += "\
