@@ -23,7 +23,10 @@ PREFERRED_PROVIDER_virtual/bootloader ??= "u-boot"
 SDCARD_ROOTFS_TYPE ?= "ext4"
 
 # Location of root filesystem which is written to the sdcard.
-SDCARD_ROOTFS = "${DEPLOY_DIR_IMAGE}/${IMAGE_NAME}.rootfs.${SDCARD_ROOTFS_TYPE}"
+#SDCARD_ROOTFS = "${DEPLOY_DIR_IMAGE}/${IMAGE_NAME}.rootfs.${SDCARD_ROOTFS_TYPE}"
+#DEPLOY_DIR_IMAGE="/mnt/ccc/gitPhytec/build/deploy/images/EMS2003C"
+#DEPLOY_DIR_IMAGE="/mnt/ccc/gitPhytec/build/deploy/images/S8005"
+SDCARD_ROOTFS = "${DEPLOY_DIR_IMAGE}/phytec-qt5demo-image-phyboard-mira-imx6-7-diy.ext4"
 
 # The sdcard requires the rootfs filesystem to be built before using
 # it so we must make this dependency explicit.
@@ -235,6 +238,9 @@ generate_imx_sdcard () {
 	# Burn Partition
 	dd if=${WORKDIR}/boot.img of=${SDCARD} conv=notrunc,fsync seek=1 bs=$(expr ${IMAGE_ROOTFS_ALIGNMENT} \* 1024)
 	dd if=${SDCARD_ROOTFS} of=${SDCARD} conv=notrunc,fsync seek=1 bs=$(expr ${BOOT_SPACE_ALIGNED} \* 1024 + ${IMAGE_ROOTFS_ALIGNMENT} \* 1024)
+
+	# del 
+	#rm -f ${SDCARD}
 }
 
 #
@@ -351,6 +357,12 @@ IMAGE_CMD_sdcard () {
 	BOOT_SPACE_ALIGNED=$(expr ${BOOT_SPACE} + ${IMAGE_ROOTFS_ALIGNMENT} - 1)
 	BOOT_SPACE_ALIGNED=$(expr ${BOOT_SPACE_ALIGNED} - ${BOOT_SPACE_ALIGNED} % ${IMAGE_ROOTFS_ALIGNMENT})
 	SDCARD_SIZE=$(expr ${IMAGE_ROOTFS_ALIGNMENT} + ${BOOT_SPACE_ALIGNED} + $ROOTFS_SIZE + ${IMAGE_ROOTFS_ALIGNMENT})
+
+	echo " qpq test: BOOT_SPACE_ALIGNED 	${BOOT_SPACE_ALIGNED}"
+	echo " qpq test: ROOTFS_SIZE			${ROOTFS_SIZE}"
+	echo " qpq test: IMAGE_ROOTFS_ALIGNMENT ${IMAGE_ROOTFS_ALIGNMENT}"
+	echo " qpq test: BOOT_SPACE 			${BOOT_SPACE}"
+	echo " qpq test: SDCARD_SIZE			${SDCARD_SIZE}"
 
 	# Initialize a sparse file
 	dd if=/dev/zero of=${SDCARD} bs=1 count=0 seek=$(expr 1024 \* ${SDCARD_SIZE})
